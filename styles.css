@@ -1,2 +1,14 @@
 
 /* Your CSS Code here. */
+img{
+	width:200px;
+}
+nav{
+	background-color:skyblue;
+	color: red;
+}
+nav ul{
+	list-style-type:none;
+	display:flex;
+	justify-content:space-around;
+}
